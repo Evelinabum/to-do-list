@@ -4,8 +4,6 @@ Simply to do list.
 
 ## 🌟 About
 
-This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
-
 Site published at: https://evelinabum.github.io/to-do-list/
 
 Design: mentorė Gabija
